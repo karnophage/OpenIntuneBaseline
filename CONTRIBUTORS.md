@@ -32,6 +32,13 @@ The [IntuneMacAdmins](https://intunemacadmins.com) team for OIB MacOS support.
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/karnophage">
+                    <img src="https://avatars.githubusercontent.com/u/9065745?v=4" width="100;" alt="karnophage"/>
+                    <br />
+                    <sub><b>Kris Jorgensen</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/LionZum">
                     <img src="https://avatars.githubusercontent.com/u/26331426?v=4" width="100;" alt="LionZum"/>
                     <br />
@@ -45,6 +52,8 @@ The [IntuneMacAdmins](https://intunemacadmins.com) team for OIB MacOS support.
                     <sub><b>Luke Steward</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/ee61re">
                     <img src="https://avatars.githubusercontent.com/u/1190365?v=4" width="100;" alt="ee61re"/>
