@@ -18,6 +18,13 @@ The [IntuneMacAdmins](https://intunemacadmins.com) team for OIB MacOS support.
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/karnophage">
+                    <img src="https://avatars.githubusercontent.com/u/9065745?v=4" width="100;" alt="karnophage"/>
+                    <br />
+                    <sub><b>Kris Jorgensen</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ugurkocde">
                     <img src="https://avatars.githubusercontent.com/u/43906965?v=4" width="100;" alt="ugurkocde"/>
                     <br />
@@ -29,13 +36,6 @@ The [IntuneMacAdmins](https://intunemacadmins.com) team for OIB MacOS support.
                     <img src="https://avatars.githubusercontent.com/u/12057476?v=4" width="100;" alt="kieran-turnbull"/>
                     <br />
                     <sub><b>Kieran Turnbull</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/karnophage">
-                    <img src="https://avatars.githubusercontent.com/u/9065745?v=4" width="100;" alt="karnophage"/>
-                    <br />
-                    <sub><b>Kris Jorgensen</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -61,8 +61,6 @@ The [IntuneMacAdmins](https://intunemacadmins.com) team for OIB MacOS support.
                     <sub><b>Rob Ellis</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/indecline">
                     <img src="https://avatars.githubusercontent.com/u/46539880?v=4" width="100;" alt="indecline"/>
